@@ -1,4 +1,6 @@
-body{background-color: darksalmon;}
+body{background: darksalmon;}
+
+
 p{text-align: center}
 
 
@@ -13,6 +15,7 @@ color:black
 p{
     text-align: center;
 }
+
 #img1{
     display: block;
     margin: 0% auto;
