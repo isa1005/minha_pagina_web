@@ -30,7 +30,7 @@ color: black;}
 
 .ul{
     display: inline - block;
-    vertical-align
+    vertical-align: top;
     width: 20%;
     margin-right: 15%;
     font-size: 20px;
